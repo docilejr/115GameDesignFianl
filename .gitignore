@@ -7,3 +7,5 @@ Build/
 .vscode/
 Content/Developers/
 Content/Collections/
+# macOS
+.DS_Store
